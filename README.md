@@ -1,7 +1,7 @@
 # exp-shop
 
 > A Vue.js project
-
+<h1>Demo: <a href="https://dong-nguyen-vue-examp.herokuapp.com/">HERE</a></h1>
 ## Build Setup
 
 ``` bash
